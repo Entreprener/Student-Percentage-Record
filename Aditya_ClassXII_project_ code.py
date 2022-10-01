@@ -173,4 +173,4 @@ while True:
         print("End")
         break
     else:
-        print("Invalid choice")
+        print("Invalid choice.. ")
